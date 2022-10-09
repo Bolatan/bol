@@ -14,11 +14,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-<<<<<<< HEAD
-          Welcome to <a href="https://techtrends.com.ng">Techtrends</a>
-=======
           Welcome to <a href="http://techtrends.com.ng">Techtrends</a>
->>>>>>> a57b68437afeee41cdb7fe70ec72cbc27ba9f3d7
         </h1>
 
         <p className={styles.description}>
