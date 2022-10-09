@@ -24,7 +24,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>AWS &rarr;</h2>
-            <p>EC2, ECS, Route53</p>
+            <p>EC2, ECS, Route53, S3</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
